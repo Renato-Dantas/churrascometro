@@ -14,5 +14,4 @@
 
 ### All this project was thought to be responsive for any device.
 
-### All this project was thought to be responsive for any device.
 
