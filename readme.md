@@ -5,8 +5,6 @@
 <<<<<<< HEAD
 <img src = './imagens/play.gif' width = '500px'>
 
-=======
->>>>>>> 801ef409b4c92603fce6cc28c00cda0f852fedf3
 ## It's an application of JavaScript, HTML and CSS to train my Front-End skills
 
 <div style="display: inline_block"><br>
